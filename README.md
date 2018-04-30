@@ -57,7 +57,7 @@ Link: https://cloud.google.com/sdk/
 
 ***
 ### Content
-**PREPARATION - Installation and Setup - [Setup Distributed Deep Learning Enviornment](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment)**
+**PREPARATION - [Installation and Setup](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment)**
 * Nvidia Setup
 * Anaconda Setup
 * Nvidia and Docker
