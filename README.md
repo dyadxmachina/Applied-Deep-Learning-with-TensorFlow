@@ -25,11 +25,11 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 * [Google Cloud MLE](https://cloud.google.com/source-repositories/) `latest`
 
 ### Installing 
-1.  **Keras**
+###### Keras
 ```
 sudo pip install keras
 ```
-2. **TensorFlow** 
+###### TensorFlow 
 ```
 sudo pip install tensorflow-gpu
 ```
@@ -37,22 +37,23 @@ sudo pip install tensorflow-gpu
 ```
 sudo pip install tensorflow
 ```
-3. **Google Cloud MLE** 
-https://cloud.google.com/sdk/
+###### Google Cloud MLE
+Link: https://cloud.google.com/sdk/
 > Installation details will be explained in [Section III](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)
 
 ### Authors 
-###### Christian Fanli Ramsey 
+**Christian Fanli Ramsey** 
+* Github: https://github.com/christianramsey
 * LinkedIn : https://www.linkedin.com/in/christianramsey/
-
-
 * Tumblr : https://www.tumblr.com/blog/anthrochristianramsey
+* Medium : https://medium.com/@christianramsey
+* Twitter : https://twitter.com/christianramsey
 
-###### Haohan Wang 
+**Haohan Wang**
+* Github: https://github.com/haohanwang23 
 * LinkedIn : https://www.linkedin.com/in/haohanw/
-
-
 * Tumblr : https://www.tumblr.com/blog/haohanwang 
+* Medium : https://medium.com/@haohanwang
 
 ***
 ### Content
