@@ -56,11 +56,12 @@ https://cloud.google.com/sdk/
 
 ***
 ### Content
-**Installation and Setup - [Setup Distributed Deep Learning Enviornment](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment)**
+**PREPARATION - Installation and Setup - [Setup Distributed Deep Learning Enviornment](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment)**
 * Nvidia Setup
 * Anaconda Setup
 * Nvidia and Docker
 * Requirements
+---
 
 **SECTION I – [Deep Learning with Keras](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras)**
 * 1.1 Keras Introduction
