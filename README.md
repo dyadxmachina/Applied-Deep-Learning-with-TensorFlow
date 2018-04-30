@@ -92,8 +92,7 @@ https://cloud.google.com/sdk/
 * 3.9 Deploying your Model to the Cloud to Prediction 
 * 3.10 Creating your Machine Learning API
 
-##### More Links: 
-* SectionIII: https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning
+##### More Links for Section III: 
 * DDL- MLE: https://github.com/christianramsey/ddl_mle
 * GCMLE: https://github.com/christianramsey/gcmle.git
 * Reading Data: https://github.com/christianramsey/reading-data.git
