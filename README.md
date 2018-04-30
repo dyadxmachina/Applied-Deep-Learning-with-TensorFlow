@@ -1,4 +1,4 @@
-# Distributed-Deep-Learning
+# Distributed Deep Learning with TensorFlow
 ## Getting Started 
 This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in a distributed way for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
 
