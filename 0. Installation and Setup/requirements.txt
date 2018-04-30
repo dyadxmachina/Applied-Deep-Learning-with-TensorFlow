@@ -1,0 +1,7 @@
+tensorflow>=1.8
+keras
+google-cloud
+google-api-python-client
+numpy
+matplotlib
+scipy

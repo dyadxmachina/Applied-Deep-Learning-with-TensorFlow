@@ -1,0 +1,2 @@
+manualScaling:
+    nodes: 5  # The number of nodes to allocate for this model.

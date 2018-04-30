@@ -1,0 +1,27 @@
+trainingInput:
+  scaleTier: STANDARD_1
+  hyperparameters:
+    goal: MAXIMIZE
+    hyperparameterMetricTag: accuracy
+    maxTrials: 25
+    maxParallelTrials: 10
+    enableTrialEarlyStopping: TRUE
+    params:
+    - parameterName: batchsize
+    type: INTEGER
+    minValue: 16
+    maxValue: 512
+    scaleType: UNIT_LOG_SCALE
+    - parameterName: learn_rate
+    type: DOUBLE
+    minValue: 0.01
+    maxValue: 0.2
+    scaleType: UNIT_LINEAR_SCALE  
+    - parameterName: embedding
+    type: CATEGORICAL
+    minValue: 0
+    maxValue: 1
+    scaleType: UNIT_LINEAR_SCALE      
+    - parameterName: hidden_units
+    type: CATEGORICAL
+    categoricalValues: ["64,16", "64,16,4", "120, 48, 24, 12"]  

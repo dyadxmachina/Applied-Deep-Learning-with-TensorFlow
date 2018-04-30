@@ -1,0 +1,10 @@
+- finalMetric:
+    objectiveValue: 0.555806
+    trainingStep: '179'
+  hyperparameters:
+    batchsize: '484'
+    dropout: '0.27851938277724281'
+    feat_eng_cols: 'ON'
+    hidden_units: 64,16
+    learn_rate: '0.082744837373068689'
+  trialId: '9'

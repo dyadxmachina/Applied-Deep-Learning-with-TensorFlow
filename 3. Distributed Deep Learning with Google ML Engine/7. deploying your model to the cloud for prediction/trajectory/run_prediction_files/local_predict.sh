@@ -1,0 +1,1 @@
+gcloud ml-engine local predict --model-dir gs://trajectory/predictions_test/export/exporter/1523805860 --json-instances ../run_prediction_files/batch_predict.json
