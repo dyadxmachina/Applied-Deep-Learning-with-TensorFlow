@@ -41,8 +41,9 @@ In this video we will be discussing the following topics:
 7. Keras fit_generator()
 8. End-to-End CNN with Data augmentation 
 ### Topic/Concept 6 - Training Image data on the disk with Transfer Learning and Data augmentation 
-In this video I will be walking you through an example. In the example we will be learning: 
+In this video I will be stepping you through an example. In the example we will be learning: 
 1. How to load image from disk 
 2. How to apply augmentation on the data
 3. How to implement transfer learning 
-4. How to save best model variables (Save model)
+4. How to save the best model variables (Save model)
+5. How to make predictions using your own data with your trained network 
