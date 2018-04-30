@@ -49,20 +49,20 @@ https://cloud.google.com/sdk/
 * Tumblr : https://www.tumblr.com/blog/anthrochristianramsey
 
 **Haohan Wang** 
-* LinedIn : https://www.linkedin.com/in/haohanw/
+* LinkedIn : https://www.linkedin.com/in/haohanw/
 
 
 * Tumblr : https://www.tumblr.com/blog/haohanwang 
 
 ***
 ### Content
-**Installation and Setup - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)**
+**Installation and Setup - [Setup Distributed Deep Learning Enviornment](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment)**
 * Nvidia Setup
 * Anaconda Setup
 * Nvidia and Docker
 * Requirements
 
-**SECTION I – [Keras introduction](https://github.com/haohan723/DistributedDeepLearning/tree/master/S1%20Keras%20Introduction)**
+**SECTION I – [Deep Learning with Keras](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras)**
 * 1.1 Keras Introduction
 * 1.2 Review of backends Theano, Tensorflow, and Mxnet
 * 1.3 Design and compile a model
@@ -71,7 +71,7 @@ https://cloud.google.com/sdk/
 * 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 -----
 
-**SECTION II – [Scaling Deep Learning using Keras and Tensorflow](https://github.com/haohan723/DistributedDeepLearning/tree/master/S2%20Distributed%20TensorFlow%20%26%20Keras)**
+**SECTION II – [Scaling Deep Learning using Keras and Tensorflow](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20%26%20Keras)**
 * 2.1 Tensorflow Introduction
 * 2.2 Tensorboard Introduction
 * 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
@@ -79,7 +79,7 @@ https://cloud.google.com/sdk/
 * 2.5 Configuring Keras to use tensorflow for Distributed problems 
 ---
 
-**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)**
+**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine)**
 * 3.1 Representing data in TensorFlow
 * 3.2 Dive into Estimators
 * 3.3 Creating your Data Input Pipeline
