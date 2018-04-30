@@ -42,13 +42,13 @@ https://cloud.google.com/sdk/
 > Installation details will be explained in [Section III](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)
 
 ### Authors 
-######Christian Fanli Ramsey 
+###### Christian Fanli Ramsey 
 * LinkedIn : https://www.linkedin.com/in/christianramsey/
 
 
 * Tumblr : https://www.tumblr.com/blog/anthrochristianramsey
 
-######Haohan Wang 
+###### Haohan Wang 
 * LinkedIn : https://www.linkedin.com/in/haohanw/
 
 
