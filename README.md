@@ -94,21 +94,9 @@ Link: https://cloud.google.com/sdk/
 * 3.9 Deploying your Model to the Cloud to Prediction 
 * 3.10 Creating your Machine Learning API
 
-##### More Links for Section III: 
-* DDL- MLE: https://github.com/christianramsey/ddl_mle
-* GCMLE: https://github.com/christianramsey/gcmle.git
-* Reading Data: https://github.com/christianramsey/reading-data.git
-* Intro to Estimator: https://github.com/christianramsey/intro-to-estimators.git
-* Read with Beam: https://github.com/christianramsey/read_with_beam.git
-* Hyperparameter: https://github.com/christianramsey/GCMLE---PHASE-II-Hyperparameters-.git
-* DDL: https://github.com/christianramsey/ddl.git
-* Export DataFlow: https://github.com/christianramsey/dataflow_export_gcmle.git
-* Streaming: https://github.com/christianramsey/streaming_gcmle.git
+---
 
-
-
-
-###### Feel Free to contact us if you have any questions: 
+#### Feel Free to contact us if you have any questions: 
 > Haohan Wang: haohan723@gmail.com
 
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
