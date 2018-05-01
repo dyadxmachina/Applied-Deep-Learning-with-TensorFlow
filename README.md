@@ -83,7 +83,7 @@ Link: https://cloud.google.com/sdk/
 
 **SECTION III - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine)**
 * 3.1 Representing data in TensorFlow
-* 3.2 Dive into Estimators
+* 3.2 Diving into Estimators
 * 3.3 Creating your Data Input Pipeline
 * 3.4 Creating your Estimator
 * 3.5 Packaging your model/trajectory 
