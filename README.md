@@ -105,6 +105,13 @@ Link: https://cloud.google.com/sdk/
 * Export DataFlow: https://github.com/christianramsey/dataflow_export_gcmle.git
 * Streaming: https://github.com/christianramsey/streaming_gcmle.git
 
-> Feel Free to contact us if you have any questions: 
-![image1](https://ibb.co/eBw6G7)
+
+
+
+###### Feel Free to contact us if you have any questions: 
+> Haohan Wang: haohan723@gmail.com
+
+> Christian Fanli Ramsey: thechristianramsey@gmail.com
+
+![image1](https://image.ibb.co/fP0bG7/Screenshot_from_2018_05_01_06_50_42.png)
 
