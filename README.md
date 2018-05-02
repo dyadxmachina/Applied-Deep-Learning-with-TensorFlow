@@ -1,6 +1,6 @@
 # Distributed Deep Learning with TensorFlow
 ## Getting Started 
-This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in a distributed way for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
+This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in distributed ways for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
 
 We have designed the course to provide you with the right blend of hands-on, theory and best practices in this rapidly developing area while providing grounding in essential concepts which remain timeless.
 
@@ -25,11 +25,11 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 * [Google Cloud MLE](https://cloud.google.com/source-repositories/) `latest`
 
 ### Installing 
-###### Keras
+##### Keras
 ```
 sudo pip install keras
 ```
-###### TensorFlow 
+##### TensorFlow 
 ```
 sudo pip install tensorflow-gpu
 ```
@@ -37,7 +37,7 @@ sudo pip install tensorflow-gpu
 ```
 sudo pip install tensorflow
 ```
-###### Google Cloud MLE
+##### Google Cloud MLE
 Link: https://cloud.google.com/sdk/
 > Installation details will be explained in [Section III](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)
 
@@ -96,7 +96,7 @@ Link: https://cloud.google.com/sdk/
 
 ---
 
-#### Feel Free to contact us if you have any questions: 
+#### Feel Free to contact us if you have any question: 
 > Haohan Wang: haohan723@gmail.com
 
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
