@@ -102,4 +102,4 @@ Link: https://cloud.google.com/sdk/
 
 
 
-![image](https://image.ibb.co/hhgHyn/Screenshot_from_2018_05_05_17_19_11.png)
+![image](https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png)
