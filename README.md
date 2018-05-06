@@ -101,23 +101,5 @@ Link: https://cloud.google.com/sdk/
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
 
 
-<<<<<<< HEAD
+
 ![image](https://image.ibb.co/hhgHyn/Screenshot_from_2018_05_05_17_19_11.png)
-=======
-![image][image-2]
-
-[1]:	https://keras.io/
-[2]:	https://www.tensorflow.org/
-[3]:	https://cloud.google.com/ml-engine/
-[4]:	https://github.com/keras-team/keras
-[5]:	https://github.com/tensorflow/tensorflow
-[6]:	https://cloud.google.com/source-repositories/
-[7]:	https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning
-[8]:	https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20enviornment
-[9]:	https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras
-[10]:	https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20&%20Keras
-[11]:	https://github.com/mxmnml/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
-
-[image-1]:	https://image.ibb.co/bLA0ES/Screenshot_from_2018_05_03_11_17_40.png
-[image-2]:	https://image.ibb.co/iEZp9S/Screenshot_from_2018_05_04_09_20_52.png
->>>>>>> 65a5234745048bb1a4c0168d3f75f61cfb167cf1
