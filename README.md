@@ -61,7 +61,7 @@ Link: https://cloud.google.com/sdk/
 **PREPARATION - [Installation and Setup][8]**
 * Nvidia Setup
 * Anaconda Setup
-* Nvidia and Docker
+* TensorFlow GPU and Google Cloud
 * Requirements
 ---
 
@@ -89,7 +89,7 @@ Link: https://cloud.google.com/sdk/
 * 3.4 Creating your Estimator
 * 3.5 Packaging your model/trajectory 
 * 3.6 Training in the Cloud
-* 3.75 Automated Hyperparameter Tuning
+* 3.7 Automated Hyperparameter Tuning
 * 3.9 Deploying your Model to the Cloud for Prediction 
 * 3.10 Creating your Machine Learning API
 
@@ -100,6 +100,7 @@ Link: https://cloud.google.com/sdk/
 
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
 
+> dyadxmachina.com
 
 
 ![image](https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png)
