@@ -100,7 +100,7 @@ Link: https://cloud.google.com/sdk/
 
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
 
-> dyadxmachina.com
+> Our Website: dyadxmachina.com
 
 
 ![image](https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png)
