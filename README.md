@@ -69,14 +69,14 @@ Link: https://cloud.google.com/sdk/
 
 **SECTION I – [Deep Learning with Keras][8]**
 * 1.1 Keras Introduction
-* 1.2 Review of backends Theano, Tensorflow, and Mxnet
+* 1.2 Review of backends Theano, TensorFlow, and Mxnet
 * 1.3 Design and compile a model
 * 1.4 Keras Model Training, Evaluation and Prediction
 * 1.5 Training with augmentation 
 * 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 ---- 
 
-**SECTION II – [Scaling Deep Learning using Keras and Tensorflow][9]**
+**SECTION II – [Scaling Deep Learning using Keras and TensorFlow][9]**
 * 2.1 Tensorflow Introduction
 * 2.2 Tensorboard Introduction
 * 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
@@ -84,7 +84,7 @@ Link: https://cloud.google.com/sdk/
 * 2.5 Configuring Keras to use TensorFlow for distributed problems 
 ---
 
-**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE][10]**
+**SECTION III - [Distributed Deep Learning with Google Cloud MLE][10]**
 * 3.1 Representing data in TensorFlow
 * 3.2 Diving into Estimators
 * 3.3 Creating your Data Input Pipeline
@@ -98,7 +98,7 @@ Link: https://cloud.google.com/sdk/
 ---
 
 #### Feel Free to contact us if you have any question:
-Visit our website [dyadxmachina.com][11]
+Visit our website [dyadxmachina.com]()
 > Haohan Wang: haohan723@gmail.com
 
 > Christian Fanli Ramsey: thechristianramsey@gmail.com
@@ -117,7 +117,7 @@ Visit our website [dyadxmachina.com][11]
 [8]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras
 [9]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20&%20Keras
 [10]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
-[11]:	dyadxmachina.com
+
 
 [image-1]:	https://image.ibb.co/bLA0ES/Screenshot_from_2018_05_03_11_17_40.png
 [image-2]:	https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png
