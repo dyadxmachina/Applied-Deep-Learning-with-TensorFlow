@@ -16,14 +16,14 @@ You will be successful in this course if you have a basic knowledge of computer 
 In this course, you will need a Google Cloud free tier account. Note that you won't be charged by creating the account. Instead, you can get `$300` credit to spend on Google Cloud Platform for 12 months and access to the Always Free tier to try participating products at no charge. By going through this course, you will probably need to spend at most `$50` out of your `$300` free credit. 
 
 ### Built with
-* [Keras][1]
-* [TensorFlow][2] 
-* [Google Cloud MLE][3]
+* [Keras](https://keras.io/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Google Cloud MLE](https://cloud.google.com/)
 
 ### Versioning
-* [Keras][4] `2.1.6`
-* [TensorFlow][5] `1.8`
-* [Google Cloud MLE][6] `latest`
+* [Keras](https://github.com/keras-team/keras) `2.1.6`
+* [TensorFlow](https://github.com/tensorflow/tensorflow) `1.8`
+* [Google Cloud MLE](https://github.com/GoogleCloudPlatform) `latest`
 
 ### Installing
 ##### Keras
@@ -57,17 +57,17 @@ Link: https://cloud.google.com/sdk/
 * Medium : https://medium.com/@haohanwang
 
 **Fanli & Haohan**
-* Website:  dyadxmachina.com
+* Website:  https://dyadxmachina.com
 ---- 
 ### Content
-**PREPARATION - [Installation and Setup][8]**
+**PREPARATION - [Installation and Setup](https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20environment)**
 * Nvidia Setup
 * Anaconda Setup
 * TensorFlow GPU and Google Cloud
 * Requirements
 ---
 
-**SECTION I – [Deep Learning with Keras][9]**
+**SECTION I – [Deep Learning with Keras](https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras)**
 * 1.1 Keras Introduction
 * 1.2 Review of backends Theano, Tensorflow, and Mxnet
 * 1.3 Design and compile a model
@@ -76,7 +76,7 @@ Link: https://cloud.google.com/sdk/
 * 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 ---- 
 
-**SECTION II – [Scaling Deep Learning using Keras and Tensorflow][10]**
+**SECTION II – [Scaling Deep Learning using Keras and Tensorflow](https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20%26%20Keras)**
 * 2.1 Tensorflow Introduction
 * 2.2 Tensorboard Introduction
 * 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
@@ -84,7 +84,7 @@ Link: https://cloud.google.com/sdk/
 * 2.5 Configuring Keras to use TensorFlow for distributed problems 
 ---
 
-**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE][11]**
+**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine)**
 * 3.1 Representing data in TensorFlow
 * 3.2 Diving into Estimators
 * 3.3 Creating your Data Input Pipeline
