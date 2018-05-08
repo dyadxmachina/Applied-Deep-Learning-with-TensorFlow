@@ -57,7 +57,7 @@ Link: https://cloud.google.com/sdk/
 * Tumblr : https://www.tumblr.com/blog/haohanwang 
 * Medium : https://medium.com/@haohanwang
 
-**Fanli & Haohan**
+**DyadxMachina**
 * Website:  https://dyadxmachina.com
 ---- 
 ### Content
