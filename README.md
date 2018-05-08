@@ -30,11 +30,12 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 ```
 sudo pip install keras
 ```
-##### TensorFlow
+##### TensorFlow GPU
 ```
 sudo pip install tensorflow-gpu
 ```
 **OR**
+##### TensorFlow CPU
 ```
 sudo pip install tensorflow
 ```
