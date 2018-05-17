@@ -8,7 +8,7 @@ Here we will cover the following topics:
 4. Keras Installation 
 5. Deep Learning Model with Keras
 
-### Topic/Concept 2 – Review of backends Theano, Tensorflow, and Mxnet
+### Topic/Concept 2 – Review of backends Theano, Tensorflow, and CNTK
 This course will be covering the following topics:
 1. What are Keras Backends
 * Tensorflow
