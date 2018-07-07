@@ -8,6 +8,8 @@ We have designed the course to provide you with the right blend of hands-on, the
  Tools and frameworks like, `Keras`, `TensorFlow`, and `Google Cloud` are used to showcase the strengths of various approaches, trade-offs and building blocks for creating real-world examples of distributed deep learning models.
 
 
+* Link to Packt Publishing: https://www.packtpub.com/big-data-and-business-intelligence/distributed-deep-learning-video
+
 ### Prerequisites
 This course is for intermediate machine learners like you who want to learn more about deep learning, how to scale out your deep learning model, and then quickly turn around and use the tools and techniques you are about to learn from this course to solve your tricky deep learning tasks. 
 
