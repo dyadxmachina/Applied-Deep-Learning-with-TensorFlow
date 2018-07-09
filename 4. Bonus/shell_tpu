@@ -1,0 +1,10 @@
+gcloud ml-engine jobs submit training $JOB_NAME \
+        --staging-bucket $STAGING_BUCKET \
+        --runtime-version 1.8 \
+        --scale-tier BASIC_TPU \
+        --module-name train.tasks \
+        --package-path resnet/ \
+        --region $REGION \
+        -- \
+        --data_dir=$DATA_DIR \
+        --model_dir=$OUTPUT_PATH
