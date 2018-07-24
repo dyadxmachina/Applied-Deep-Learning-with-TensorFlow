@@ -1,4 +1,4 @@
-# Distributed Deep Learning with TensorFlow
+# Applied Deep Learning with TensorFlow and Google Cloud AI
 ![image1][image-1]
 ## Getting Started
 This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in distributed ways for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
@@ -19,7 +19,7 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 ### Built with
 * [Keras][1]
-* [TensorFlow][2]
+* [TensorFlow][2] *low and high level*
 * [Google Cloud MLE][3]
 
 ### Versioning
@@ -63,14 +63,14 @@ Link: https://cloud.google.com/sdk/
 * Website:  https://dyadxmachina.com
 ---- 
 ### Content
-**PREPARATION - [Installation and Setup][7]**
+**PREPARATION - [Installation and Setup][8]**
 * Nvidia Setup
 * Anaconda Setup
 * TensorFlow GPU and Google Cloud
 * Requirements
 ---
 
-**SECTION I – [Deep Learning with Keras][8]**
+**SECTION I – [Deep Learning with Keras][9]**
 * 1.1 Keras Introduction
 * 1.2 Review of backends Theano, TensorFlow, and Mxnet
 * 1.3 Design and compile a model
@@ -79,7 +79,7 @@ Link: https://cloud.google.com/sdk/
 * 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 ---- 
 
-**SECTION II – [Scaling Deep Learning using Keras and TensorFlow][9]**
+**SECTION II – [Scaling Deep Learning using Keras and TensorFlow][10]**
 * 2.1 Tensorflow Introduction
 * 2.2 Tensorboard Introduction
 * 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
@@ -87,7 +87,7 @@ Link: https://cloud.google.com/sdk/
 * 2.5 Configuring Keras to use TensorFlow for distributed problems 
 ---
 
-**SECTION III - [Distributed Deep Learning with Google Cloud MLE][10]**
+**SECTION III - [Distributed Deep Learning with Google Cloud MLE][11]**
 * 3.1 Representing data in TensorFlow
 * 3.2 Diving into Estimators
 * 3.3 Creating your Data Input Pipeline
@@ -117,9 +117,10 @@ Visit our website [dyadxmachina.com]()
 [5]:	https://github.com/tensorflow/tensorflow
 [6]:	https://github.com/GoogleCloudPlatform
 [7]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20environment
-[8]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras
-[9]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20&%20Keras
-[10]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
+[8]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/0.%20Setup%20distributed%20deep%20learning%20environment
+[9]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/1.%20Deep%20Learning%20with%20Keras
+[10]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/2.%20Distributed%20TensorFlow%20&%20Keras
+[11]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
 
 
 [image-1]:	https://image.ibb.co/bLA0ES/Screenshot_from_2018_05_03_11_17_40.png
