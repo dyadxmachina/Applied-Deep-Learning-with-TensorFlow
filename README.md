@@ -124,5 +124,5 @@ Visit our website [dyadxmachina.com]()
 [11]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
 
 
-[image-1]:	https://ibb.co/i0LbjT "Applied Deep Learning with TensorFlow and Google Cloud AI"
+[image-1]:	https://image.ibb.co/e9rhPT/Screen_Shot_2018_07_24_at_15_10_09.png "Applied Deep Learning with TensorFlow and Google Cloud AI"
 [image-2]:	https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png
