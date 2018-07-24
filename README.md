@@ -1,5 +1,6 @@
 # Applied Deep Learning with TensorFlow and Google Cloud AI
-![image1][image-1]
+![image1][image-1] 
+_Authors: Haohan Wang & Christian Fanli Ramsey_
 ## Getting Started
 This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in distributed ways for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
 
@@ -123,5 +124,5 @@ Visit our website [dyadxmachina.com]()
 [11]:	https://github.com/dyadxmachina/Distributed-Deep-Learning-with-Tensorflow/tree/master/3.%20Distributed%20Deep%20Learning%20with%20Google%20ML%20Engine
 
 
-[image-1]:	https://image.ibb.co/bLA0ES/Screenshot_from_2018_05_03_11_17_40.png
+[image-1]:	https://ibb.co/i0LbjT "Applied Deep Learning with TensorFlow and Google Cloud AI"
 [image-2]:	https://image.ibb.co/khJuB7/Screenshot_from_2018_05_05_17_38_05.png
