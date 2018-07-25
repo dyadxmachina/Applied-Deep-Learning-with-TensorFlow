@@ -2,7 +2,7 @@
 ![image1][image-1] 
 _Authors: [Haohan Wang][1] & [Christian Fanli Ramsey][2]_ \> [dyad x machina][3]
 ## Getting Started
-This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially distributed deep learning, TensorFlow, Google Cloud and Keras. We are here to give you the skills to analyze large volumes of data in distributed ways for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
+This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers who are interested in knowing more about deep learning, especially applied deep learning, TensorFlow, Google Cloud and Keras. We ares here to give you the skills to analyze large volumes of data in distributed ways for a production level system. After the course, you will be able to have a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
 
 We have designed the course to provide you with the right blend of hands-on, theory and best practices in this rapidly developing area while providing grounding in essential concepts which remain timeless.
 
